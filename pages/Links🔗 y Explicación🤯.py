@@ -14,7 +14,7 @@ st.title("Links🔗 y Explicación🤯")
 st.markdown("### Repositorio de GitHub")
 st.text("Link para que accedas al repositorio de GITHUB por si quieres replicar tu propio sapito del clima")
 # URL del video
-video_url1 = " https://github.com/SaraNu0720/El-sapito-del-clima-"  # Cambia por tu enlace
+video_url1 = " https://github.com/SaraNu0720/El-sapito-del-clima"  # Cambia por tu enlace
 
 # Agregar enlace
 st.markdown(f"[Haz clic aquí para ir al repositorio]({video_url1})", unsafe_allow_html=True)
