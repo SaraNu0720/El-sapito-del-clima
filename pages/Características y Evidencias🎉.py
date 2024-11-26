@@ -10,7 +10,7 @@ import streamlit as st
 st.sidebar.markdown("# Características y Evidencias🎉")
 import streamlit as st
 
-st.title("Características y Evidencias")
+st.title("Características y Evidencias🎉")
 st.markdown("### Características del prototipo")
 st.text("""
 - Controlador: ESP32.
